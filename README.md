@@ -43,3 +43,11 @@ Future updates will include:
 - Authentication policies
 - System Log analysis
 - Architecture diagrams
+
+---
+
+## Author
+
+Marquis Monroe
+
+GitHub: https://github.com/Marquis912
