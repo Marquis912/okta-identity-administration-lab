@@ -51,3 +51,23 @@ Future updates will include:
 Marquis Monroe
 
 GitHub: https://github.com/Marquis912
+
+---
+
+# Business Scenario
+
+Contoso Manufacturing is a fictional enterprise with approximately 1,200 employees across multiple locations.
+
+The organization uses Okta Workforce Identity Cloud as its central Identity Provider (IdP) to manage authentication, authorization, and application access.
+
+As the Identity Administrator, I am responsible for:
+
+- User provisioning
+- Identity lifecycle management
+- Group administration
+- Multi-Factor Authentication (MFA)
+- Application assignments
+- Authentication policies
+- Security documentation
+
+The goal of this project is to simulate real-world IAM administration tasks while documenting every configuration and decision.
